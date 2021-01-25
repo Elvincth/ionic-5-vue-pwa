@@ -1,0 +1,7 @@
+{
+  "name": "chain-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
